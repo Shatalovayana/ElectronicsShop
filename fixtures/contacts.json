@@ -1,0 +1,79 @@
+[
+{
+  "model": "shop.contacts",
+  "pk": 1,
+  "fields": {
+    "email": "test1@sky.pro",
+    "country": "Россия",
+    "city": "Москва",
+    "street": "Тверская",
+    "house": "33"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 2,
+  "fields": {
+    "email": "ivanov@sky.pro",
+    "country": "Россия",
+    "city": "Уфа",
+    "street": "Ленина",
+    "house": "5"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 3,
+  "fields": {
+    "email": "petrov@sky.pro",
+    "country": "Россия",
+    "city": "Москва",
+    "street": "Фадеева",
+    "house": "15"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 4,
+  "fields": {
+    "email": "fedorov@ya.ru",
+    "country": "Россия",
+    "city": "Казань",
+    "street": "Максима Горького",
+    "house": "54"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 5,
+  "fields": {
+    "email": "test@test.com",
+    "country": "Россия",
+    "city": "Казань",
+    "street": "Ленина",
+    "house": "54"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 6,
+  "fields": {
+    "email": "123@sky.pro",
+    "country": "Россия",
+    "city": "Уфа",
+    "street": "Никитина",
+    "house": "11"
+  }
+},
+{
+  "model": "shop.contacts",
+  "pk": 7,
+  "fields": {
+    "email": "456@sky.pro",
+    "country": "Россия",
+    "city": "Новосибирск",
+    "street": "Большевистская",
+    "house": "123"
+  }
+}
+]
