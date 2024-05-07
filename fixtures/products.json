@@ -1,0 +1,29 @@
+[
+{
+  "model": "shop.products",
+  "pk": 1,
+  "fields": {
+    "name": "стол",
+    "product_model": "1",
+    "date_of_release": "2023-12-06"
+  }
+},
+{
+  "model": "shop.products",
+  "pk": 2,
+  "fields": {
+    "name": "кровать",
+    "product_model": "2",
+    "date_of_release": "2024-04-08"
+  }
+},
+{
+  "model": "shop.products",
+  "pk": 3,
+  "fields": {
+    "name": "зеркало",
+    "product_model": "3",
+    "date_of_release": "2024-03-03"
+  }
+}
+]
